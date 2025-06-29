@@ -232,8 +232,8 @@
         <mxCell id="FAU_8dQqtHZPnwQDV4QB-110" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Stage 3: Neighborhood Aggregation&lt;br&gt;(Using node 3 as an example)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="146" y="449" width="177" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="FAU_8dQqtHZPnwQDV4QB-111" value="Stage 4: Updated Representations" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="473.5" y="456.5" width="202" height="26" as="geometry" />
+        <mxCell id="FAU_8dQqtHZPnwQDV4QB-111" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Stage 4: Updated Representations&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="489.5" y="456.5" width="171" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
