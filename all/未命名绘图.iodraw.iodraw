@@ -224,7 +224,7 @@
           <mxGeometry x="487" y="603" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FAU_8dQqtHZPnwQDV4QB-108" value="Stage 1: Initial Graph Structure" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="143" y="199" width="183" height="26" as="geometry" />
+          <mxGeometry x="143" y="204" width="183" height="26" as="geometry" />
         </mxCell>
         <mxCell id="FAU_8dQqtHZPnwQDV4QB-109" value="Stage 2: Message Passing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="494" y="199" width="161" height="26" as="geometry" />
