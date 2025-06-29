@@ -229,8 +229,8 @@
         <mxCell id="FAU_8dQqtHZPnwQDV4QB-109" value="Stage 2: Message Passing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="494" y="199" width="161" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FAU_8dQqtHZPnwQDV4QB-110" value="Stage 2: Message Passing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="154" y="456" width="161" height="26" as="geometry" />
+        <mxCell id="FAU_8dQqtHZPnwQDV4QB-110" value="Stage 3: Neighborhood Aggregation&lt;br&gt;(Using node 3 as an example)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="449" width="209" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
