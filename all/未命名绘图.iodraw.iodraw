@@ -111,6 +111,14 @@
         <mxCell id="FAU_8dQqtHZPnwQDV4QB-48" value="Stage 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="153" y="204" width="59" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="FAU_8dQqtHZPnwQDV4QB-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.872;entryY=0.237;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FAU_8dQqtHZPnwQDV4QB-21" target="FAU_8dQqtHZPnwQDV4QB-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="427" y="293" />
+              <mxPoint x="428" y="293" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
